@@ -64,7 +64,7 @@ Add all the files created in your folder to be tracked:
  ## Push a repository to GitHub
 After creating a new repository on your github page, copy the URL of your repository and insert it at the end of this command:
 
-` git remote add origin <adress repository>`
+` git remote add origin <url repository>`
 
  And after:
  
